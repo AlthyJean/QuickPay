@@ -4,7 +4,7 @@ Instant escrow payments for freelancers using Stellar.
 ## Problem
 Freelancers in Manila experience delayed payments and high fees.
 
-## Solution
+## Project Description (Solution)
 Escrow-based instant USDC payments using Stellar.
 
 ## Timeline
@@ -37,6 +37,9 @@ soroban contract invoke --id <ID> --fn create_escrow --arg ...
 ## Deployed Contract Link 
 [1] https://stellar.expert/explorer/testnet/tx/6fc32236341064708836ec6b3cba01e3e621b50531eba5427303c5b9fab0b077
 [2] https://lab.stellar.org/r/testnet/contract/CAABSCND2AEPZODEF6JMMT7RWWIUSOWJFLI4LZEXYDDRBWSD2LEK2EZY
+
+## Future Scope 
+The development is still in progress 
 
 ## License
 MIT
